@@ -1,9 +1,12 @@
 # Otaku-Hord-Downloader
 a simple and open-source superfast anime downloader for hoarders as the name suggests :)
 
+##How-To-Install
+Firstly you have to install npm then just run the start.bat, and the necessary components will be installed automatically.
+
 This project would be impossible without the scraper from https://github.com/pystardust/ani-cli and https://github.com/FishysPop/Mass-anime-downloader massive thanks to them.
 
-##Code-base:
+##Code-base
 This project is based on Node.js
 As a downloader it uses aira2.
 
