@@ -2,7 +2,10 @@
 a simple and open-source superfast anime downloader for hoarders as the name suggests :)
 
 ## How-To-Install
-Firstly you have to install npm then just run the start.bat, and the necessary components will be installed automatically.
+1. Download Node.js from here https://nodejs.org/en/download/current for windows and for Linux use your respective commands.
+2. Install aria2c
+3. Run the code
+4. Enjoy!!!!!
 
 This project would be impossible without the scraper from https://github.com/pystardust/ani-cli and https://github.com/FishysPop/Mass-anime-downloader massive thanks to them.
 
