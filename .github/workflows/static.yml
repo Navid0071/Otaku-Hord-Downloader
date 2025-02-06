@@ -1,6 +1,6 @@
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
-
+<meta name="google-site-verification" content="_YezXNMEfD9d3i95ei3nOkkLlqMkb4uKN_iEHW8WJDo" />
 on:
   # Runs on pushes targeting the default branch
   push:
